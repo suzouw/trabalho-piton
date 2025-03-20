@@ -1,15 +1,13 @@
-console.log("Digite os números que você quer somar:");
-var sum = 0;
-var number = 0;
-var continuar = true;
+int1 = parseInt(prompt("Digite um número inteiro: "));
 
-while (continuar) {
-    number = prompt("Digite um número:");
-    sum = sum + parseInt(number);
-    number = prompt("Você quer sair do programa? Digite 0 caso SIM, digite qualquer outro para NÃO: ");
-    if (!parseInt(number)) {
-        continuar = false;
-    }
+function ehPar(n) {
+    return n % 2 == 0;
 }
 
-console.log("A soma dos números é:" + sum);
+if (ehPar(int1)) {
+    console.log("O número " + int1 + " é par");
+    console.log("Virou impar: " + (int1 + 1));
+} else {
+    console.log("O número " + int1 + " é impar");
+    console.log("Virou par: " + (int1 + 1));
+}
