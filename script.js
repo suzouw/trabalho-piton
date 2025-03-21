@@ -55,9 +55,9 @@ function contarCaracteres (num){
 }
 */
 
-const num parseFloat ('digite seu primeiro numero')
-const num2  parseFloat ('digite seu segundo numero')
-const num3 parseFloat ('digite seu terceiro numero')
+const num parseFloat prompt( ('digite seu primeiro numero') )
+const num2  parseFloat prompt( ('digite seu segundo numero') )
+const num3 parseFloat prompt ( ('digite seu terceiro numero') )
 
 function (media)
 
