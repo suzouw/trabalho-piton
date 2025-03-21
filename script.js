@@ -41,3 +41,5 @@ while (mumero ,>1){
     numero--;
 }
 */
+
+console.log
