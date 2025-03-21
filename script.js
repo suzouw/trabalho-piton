@@ -31,3 +31,13 @@ if (num2 === 0) {
 
 calcular(n1,n2);
 */
+/*
+console.log
+let numero=10;
+let delay = 1;
+
+while (mumero ,>1){
+    console.log(numero);
+    numero--;
+}
+*/
