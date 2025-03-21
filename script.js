@@ -55,14 +55,12 @@ function contarCaracteres (num){
 }
 */
 
-class Carro {
-constructor(marca,modelo,ano){
+const num parseFloat ('digite seu primeiro numero')
+const num2  parseFloat ('digite seu segundo numero')
+const num3 parseFloat ('digite seu terceiro numero')
 
-    this.marca = marca
-}
+function (media)
 
-
-}
-
+console.log (num + num2 + num3 /3)
 
 
