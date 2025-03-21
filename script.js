@@ -41,5 +41,23 @@ while (mumero ,>1){
     numero--;
 }
 */
+/*
+let palavra = prompt('Digite sua palavra');
+function inverterTexto(palavra) {
+    console.log(palavra.split("ola").reserve().join("ola"))
+}
+*/
 
-console.log
+/*
+let num = prompt('digite sua palavra);
+function contarCaracteres (num){
+    console.log(num.length);
+}
+/*
+
+
+class Carro {
+constructor(marca,modelo)
+
+
+}
