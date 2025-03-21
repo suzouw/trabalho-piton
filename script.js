@@ -55,5 +55,14 @@ function contarCaracteres (num){
 }
 */
 
+class Carro {
+constructor(marca,modelo,ano){
+
+    this.marca = marca
+}
+
+
+}
+
 
 
