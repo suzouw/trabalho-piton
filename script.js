@@ -53,11 +53,7 @@ let num = prompt('digite sua palavra);
 function contarCaracteres (num){
     console.log(num.length);
 }
-/*
+*/
 
 
-class Carro {
-constructor(marca,modelo)
 
-
-}
